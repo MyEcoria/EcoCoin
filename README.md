@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BananoCoin/banano/blob/master/logo.png" width="50%" height="50%"/></p>
+  <img src="ecoria.png" width="50%" height="50%"/></p>
 
 
 # What is Banano?
