@@ -7,7 +7,7 @@ EcoCoin est une blockchain
 # C'est quoi MyEcoria?
 MyEcoria est un projet basé sur la blockchain EcoCoin qui a pour but de redistribuer ses bénéfices à des associations et des projets que vous pouvez choisir... 
 
-### Key features
+### Principales caractéristiques
 * Banano utilise une nouvelle architecture de block-lettuce.
 * Transactions instantanée et sans frais.
 * Fungible (&utile).
@@ -29,13 +29,12 @@ Pour plus d'informations, consultez [notre site](https://myecoria.io/site.web/).
 - [GitHub wiki](http://github.com/MyEcoria/EcoCoin/wiki)
 
 ### Build instructions
-- [Building Banano from source](https://github.com/BananoCoin/banano/wiki/Building-a-Bananode-from-sources)
+- [Building EcoCoin à partir de la source](https://github.com/MyEcoria/EcoCoin/wiki/Building-a-Bananode-from-sources)
 
-### Running a Docker node
-- [Running a Docker node](https://github.com/BananoCoin/banano/wiki/Running-a-Docker-Bananode)
+### Lancer un nœud docker
+- [Lancer un nœud docker](https://github.com/MyEcoria/EcoCoin/wiki/Running-a-Docker-Bananode)
 
-### Want to contribute?
+### Vous voulez contribuer à ce projet ?
 
-### Contact us
-You can reach us via the [Discord](https://chat.banano.cc) or our [Reddit](http://reddit.com/r/banano).
-You can also [file an issue](http://github.com/bananocoin/banano/issues).
+### Contacter nous
+Par e-mail via l'adresse ecoriap@protonmail.com
