@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ecoria.png" width="50%" height="50%"/></p>
+  <img src="ecoria.ico" width="50%" height="50%"/></p>
 
 # C'est quoi EcoCoin?
 EcoCoin est une blockchain
