@@ -23,15 +23,10 @@ MyEcoria est un projet basé sur la blockchain EcoCoin qui a pour but de redistr
 Pour plus d'informations, consultez [notre site](https://myecoria.io/site.web/).
 
 ### Resources
-- [Banano website](https://banano.cc)
-- [Yellowpaper](https://banano.cc/)
-- [Discord chat](https://chat.banano.cc)
-- [Reddit](http://reddit.com/r/banano)
-- [Fritter](http://twitter.com/bananocoin)
-- [GitHub wiki](http://github.com/bananocoin/banano/wiki)
-- [BananoVault](https://vault.banano.cc)
-- [Telegram](https://t.me/joinchat/HX-rIQ-t9Ad2xRcJjztVzg)
-- [Banano.how all links at a glance](http://banano.how/)
+- [EcoCoin website](https://myecoria.io/site.web/)
+- [Discord chat](https://discord.gg/DMuTuEfZEe)
+- [Twitter](https://twitter.com/buchez_pierric?s=09)
+- [GitHub wiki](http://github.com/MyEcoria/EcoCoin/wiki)
 
 ### Build instructions
 - [Building Banano from source](https://github.com/BananoCoin/banano/wiki/Building-a-Bananode-from-sources)
