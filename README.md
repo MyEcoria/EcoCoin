@@ -1,27 +1,26 @@
 <p align="center">
   <img src="ecoria.png" width="50%" height="50%"/></p>
 
+# C'est quoi EcoCoin?
+EcoCoin est une blockchain
 
-# What is Banano?
-Banano is designed to be a feeless, instant, high throughput cryptocurrency for the meme economy. 
+# C'est quoi MyEcoria?
+MyEcoria est un projet basé sur la blockchain EcoCoin qui a pour but de redistribuer ses bénéfices à des associations et des projets que vous pouvez choisir... 
 
 ### Key features
-* Banano utilizes a novel block-lettuce architecture.
-* Instant and Feeless transactions.
-* Fungible (& Edible).
-* Daily potassium airdrops.
-* Ripe for memes.
-* Literally grows on trees, no mining required.
-* Not a Shitcoin (until digested).
-* No more confusing prefix, Bananos contain Banoshis.
-* Replay Protection to stop attackers from executing replay attacks from chain X on chain Y and vice versa.
+* Banano utilise une nouvelle architecture de block-lettuce.
+* Transactions instantanée et sans frais.
+* Fungible (&utile).
+* Pousse littéralement sur les arbres, aucune exploitation minière n'est requise.
+* Pas un Shitcoin (jusqu'à ce qu'il soit digéré). 
+* Replay Protection pour empêcher les attaquants d'exécuter des attaques de replay de la chaîne X sur la chaîne Y et vice versa.
 
-### Key facts
-* Forked from NANO (raiblocks)
-* Total Supply: 3,402,823,669.20
-* Born in Feb. 2018, Mainnet launch April 1st, 2018
+### Faits marquants
+* Forker de Banano (raiblocks)
+* Approvisionnement total: 0
+* Né en Juillet 2021, lancement de Mainnet le 30 Juillet 2021
 
-For more information, see [Banano.cc](https://banano.cc).
+Pour plus d'informations, consultez [notre site](https://myecoria.io/site.web/).
 
 ### Resources
 - [Banano website](https://banano.cc)
